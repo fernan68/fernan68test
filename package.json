@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "my-package-fernan68-test:toggle"
   },
-  "repository": "https://github.imec.be/ACMECorp/my-package-fernan68-test",
+  "repository": "https://github.com/fernan68/fernan68test",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
