@@ -1,0 +1,18 @@
+{
+  "name": "my-package-fernan68-test",
+  "main": "./lib/my-package-fernan68-test",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "my-package-fernan68-test:toggle"
+  },
+  "repository": "https://github.imec.be/ACMECorp/my-package-fernan68-test",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

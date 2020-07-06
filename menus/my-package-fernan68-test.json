@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle my-package-fernan68-test",
+        "command": "my-package-fernan68-test:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "my-package-fernan68-test",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "my-package-fernan68-test:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
